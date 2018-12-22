@@ -1,4 +1,6 @@
-#ShipD (pronounced "shipped")
+![ShipD Logo](/rsrc/shipd_logo-02.png)
+
+It's pronounced "shipped".
 
 The idea is of / for a distributed shipping mechanism. Today (20180121) we already see a degree of distributed manufacturing, but for these mechanisms to realize value at present they are reliant upon established logistical mechanisms, specifically:
 1. a developed road system
